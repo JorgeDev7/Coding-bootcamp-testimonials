@@ -1,0 +1,31 @@
+:root {
+  --Dark-Blue: #202046;
+  --Grayish-Blue: #babacf;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 3.2rem;
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
